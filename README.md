@@ -8,7 +8,14 @@
 
 <br><br>
 
-# Moaz Ibrahim
+## 👨‍💻 About Me
+
+I'm **Moaz Ibrahim**, an AI student passionate about exploring Artificial Intelligence and building practical solutions to real-world problems.
+
+I'm continuously developing my skills across different areas of AI, experimenting with new technologies, and building projects that combine **data, intelligence, automation, and real-world applications**.
+
+---
+# Tracks
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP;Generative+AI+%7C+AI+Automation" alt="Typing SVG" />
 
@@ -28,15 +35,7 @@
 
 </div>
 
----
 
-## 👨‍💻 About Me
-
-I'm **Moaz Ibrahim**, an AI student passionate about exploring Artificial Intelligence and building practical solutions to real-world problems.
-
-I'm continuously developing my skills across different areas of AI, experimenting with new technologies, and building projects that combine **data, intelligence, automation, and real-world applications**.
-
----
 
 # 💻 Programming Languages
 
@@ -80,8 +79,7 @@ I'm continuously developing my skills across different areas of AI, experimentin
 </div>
 
 ---
-
-# 🚀 Projects
+<!--# 🚀 Projects
 
 <table>
 <tr>
@@ -138,7 +136,7 @@ One or two lines describing what the project does and the problem it solves.
 </table>
 
 ---
-
+-->
 # 📊 GitHub Stats
 
 <div align="center">
@@ -159,7 +157,7 @@ One or two lines describing what the project does and the problem it solves.
 
 ---
 
-# 📫 Contact Me
+<!--# 📫 Contact Me
 
 <div align="center">
 
@@ -171,7 +169,7 @@ One or two lines describing what the project does and the problem it solves.
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ### 🚀 Learning • Building • Innovating
